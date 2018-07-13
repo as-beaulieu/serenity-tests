@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3a9cd06-24ba-4d28-a79d-563f952f3d42" name="Default" comment="" />
+    <list default="true" id="0f94bbc1-e850-4d08-a019-c48b16705e26" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,60 +20,12 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <task path="$PROJECT_DIR$">
-          <activation />
-        </task>
         <projects_view>
           <tree_state>
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="SubmissionsSerenityTests" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="SubmissionsSerenityTests" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="SubmissionsSerenityTests" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="SubmissionsSerenityTests" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="SubmissionsSerenityTests" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-                <item name="net.serenity-bdd:serenity-junit:1.8.3" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="SubmissionsSerenityTests" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-                <item name="net.serenity-bdd:serenity-core:1.8.3" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="SubmissionsSerenityTests" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="SubmissionsSerenityTests" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="serenity bdd" type="c8890929:TasksNode$1" />
+                <item name="submissions-testing" type="f1a62948:ProjectNode" />
               </path>
             </expand>
             <select />
@@ -84,11 +36,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="27" column="64" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
+            <state relative-caret-position="149">
+              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GETFindByIdsSubmissionPOC.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/submissions/restassured/tests/GETFindByIdsSubmissionPOC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="POSTCreateSubmissionPOC.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/submissions/restassured/tests/POSTCreateSubmissionPOC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="52" column="29" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="52" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExampleRestAssured.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/submissions/helloworld/restassured/ExampleRestAssured.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchByKeywordStory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/submissions/tests/features/search/SearchByKeywordStory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -96,83 +93,31 @@
       <file leaf-file-name="serenity.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/serenity.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchByKeywordStory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/submissions/serenity/features/search/SearchByKeywordStory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DictionaryPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/submissions/serenity/pages/DictionaryPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gradle.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/gradle.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="gradle-wrapper.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="package-info.class" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/test/classes/com/submissions/serenity/features/search/package-info.class">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="SearchByKeywordStory.class" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/test/classes/com/submissions/serenity/features/search/SearchByKeywordStory.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-186">
-              <folding>
-                <element signature="e#0#1570#0" expanded="true" />
-              </folding>
+            <state>
+              <caret selection-end-line="2" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\beaulian\.gradle\wrapper\dists\gradle-4.4-bin\bgaq7vklkazwgxox0hdadxbvi\gradle-4.4" />
+        <entry key="$PROJECT_DIR$" value="C:\Gradle\gradle-4.8.1" />
       </map>
     </option>
     <option name="myGradleVersions">
       <map>
-        <entry key="$PROJECT_DIR$" value="4.4" />
+        <entry key="$PROJECT_DIR$" value="4.8.1" />
       </map>
     </option>
     <option name="availableProjects">
@@ -180,14 +125,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="SubmissionsSerenityTests" />
+              <option name="name" value="submissions-testing" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="SubmissionsSerenityTests" />
+                <option name="name" value="submissions-testing" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
@@ -201,7 +146,7 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'SubmissionsSerenityTests'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'submissions-testing'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
@@ -211,18 +156,9 @@
                 <option name="name" value="buildDependents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="cleanEclipseClasspath" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'SubmissionsSerenityTests'." />
+                <option name="description" value="Displays the sub-projects of root project 'submissions-testing'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Cleans all Eclipse files." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="cleanEclipse" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles main classes." />
@@ -230,18 +166,14 @@
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'SubmissionsSerenityTests'. [incubating]" />
+                <option name="description" value="Displays the dependent components of components in root project 'submissions-testing'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'SubmissionsSerenityTests'." />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'submissions-testing'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="cleanEclipseProject" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Generates Gradle wrapper files." />
@@ -269,17 +201,12 @@
                 <option name="name" value="clearHistory" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Generates the Eclipse classpath file." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="eclipseClasspath" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Assembles a jar archive containing the main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="jar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'SubmissionsSerenityTests'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'submissions-testing'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
@@ -289,13 +216,9 @@
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'SubmissionsSerenityTests'." />
+                <option name="description" value="Displays the tasks runnable from root project 'submissions-testing'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="cleanEclipseJdt" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Deletes the Serenity output directory (run automatically with 'clean')" />
@@ -323,7 +246,7 @@
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'SubmissionsSerenityTests'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'submissions-testing'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -353,14 +276,9 @@
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'SubmissionsSerenityTests'." />
+                <option name="description" value="Displays all dependencies declared in root project 'submissions-testing'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Generates all Eclipse files." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="eclipse" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Processes test resources." />
@@ -373,11 +291,6 @@
                 <option name="name" value="help" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Generates the Eclipse JDT settings file." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="eclipseJdt" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="build" />
@@ -388,12 +301,7 @@
                 <option name="name" value="buildNeeded" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Generates the Eclipse project file." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="eclipseProject" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'SubmissionsSerenityTests'." />
+                <option name="description" value="Displays the properties of root project 'submissions-testing'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
@@ -404,9 +312,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3062475222195" />
+        <entry key="$PROJECT_DIR$" value="3062842838999" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="3913420135" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="259227128" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -421,9 +329,8 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-gradle-plugin/1.8.3/568211878f03af6c9ab3f6ebc9b14d8777c20505/serenity-gradle-plugin-1.8.3-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-gradle-plugin/1.8.3/433a9419aa6e87c3d351112268099cbacb84c9d7/serenity-gradle-plugin-1.8.3.jar" />
-                            <option value="$MAVEN_REPOSITORY$/com/google/guava/guava/23.0/guava-23.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-gradle-plugin/1.9.19/acf182a3ec510ce575932ef4f7d4c242688d4ede/serenity-gradle-plugin-1.9.19.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/23.6-jre/c0b638df79e7b2e1ed98f8d68ac62538a715ab1d/guava-23.6-jre.jar" />
                             <option value="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0.jar" />
                             <option value="$MAVEN_REPOSITORY$/cglib/cglib/3.2.5/cglib-3.2.5.jar" />
                             <option value="$MAVEN_REPOSITORY$/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar" />
@@ -431,15 +338,17 @@
                             <option value="$MAVEN_REPOSITORY$/org/objenesis/objenesis/2.6/objenesis-2.6.jar" />
                             <option value="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar" />
                             <option value="$MAVEN_REPOSITORY$/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01.jar" />
-                            <option value="$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/2.1.0/cucumber-core-2.1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-core/2.3.0/6879557468d3997d93be631fa60a4e06c37667ec/cucumber-core-2.3.0.jar" />
                             <option value="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" />
                             <option value="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar" />
                             <option value="$MAVEN_REPOSITORY$/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19.jar" />
-                            <option value="$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.7.5/byte-buddy-1.7.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.7.9/51218a01a882c04d0aba8c028179cce488bbcb58/byte-buddy-1.7.9.jar" />
                             <option value="$MAVEN_REPOSITORY$/io/vavr/vavr/0.9.0/vavr-0.9.0.jar" />
-                            <option value="$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-core/1.8.3/serenity-core-1.8.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-model/1.9.19/18fbcddcd89c6aeef445e65260db5fb60de6b7fb/serenity-model-1.9.19.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-core/1.9.19/bb36536b96b07001cd617f57b008a20933227be6/serenity-core-1.9.19.jar" />
                             <option value="$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar" />
-                            <option value="$MAVEN_REPOSITORY$/com/google/errorprone/error_prone_annotations/2.0.18/error_prone_annotations-2.0.18.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar" />
                             <option value="$MAVEN_REPOSITORY$/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar" />
                             <option value="$MAVEN_REPOSITORY$/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar" />
                             <option value="$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1.jar" />
@@ -448,89 +357,59 @@
                             <option value="$MAVEN_REPOSITORY$/info/cukes/cucumber-html/0.2.6/cucumber-html-0.2.6.jar" />
                             <option value="$MAVEN_REPOSITORY$/io/cucumber/cucumber-jvm-deps/1.0.6/cucumber-jvm-deps-1.0.6.jar" />
                             <option value="$MAVEN_REPOSITORY$/io/cucumber/gherkin/5.0.0/gherkin-5.0.0.jar" />
-                            <option value="$MAVEN_REPOSITORY$/io/cucumber/tag-expressions/1.0.1/tag-expressions-1.0.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/io/cucumber/tag-expressions/1.1.1/tag-expressions-1.1.1.jar" />
                             <option value="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
                             <option value="$MAVEN_REPOSITORY$/io/vavr/vavr-match/0.9.0/vavr-match-0.9.0.jar" />
-                            <option value="$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-report-resources/1.8.3/serenity-report-resources-1.8.3.jar" />
-                            <option value="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar" />
-                            <option value="$MAVEN_REPOSITORY$/commons-io/commons-io/2.5/commons-io-2.5.jar" />
-                            <option value="$MAVEN_REPOSITORY$/com/opera/operadriver/1.5/operadriver-1.5.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-server/3.7.1/selenium-server-3.7.1.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-java/3.7.1/selenium-java-3.7.1.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.7.1/selenium-api-3.7.1.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.7.1/selenium-chrome-driver-3.7.1.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-edge-driver/3.7.1/selenium-edge-driver-3.7.1.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.7.1/selenium-remote-driver-3.7.1.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-safari-driver/3.7.1/selenium-safari-driver-3.7.1.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.7.1/selenium-support-3.7.1.jar" />
-                            <option value="$MAVEN_REPOSITORY$/com/codeborne/phantomjsdriver/1.4.3/phantomjsdriver-1.4.3.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.4.5.v20170502/jetty-util-9.4.5.v20170502.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-io/9.4.5.v20170502/jetty-io-9.4.5.v20170502.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/htmlunit-driver/2.27/htmlunit-driver-2.27.jar" />
-                            <option value="$MAVEN_REPOSITORY$/io/appium/java-client/5.0.4/java-client-5.0.4.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/2.4.12/groovy-2.4.12.jar" />
-                            <option value="$MAVEN_REPOSITORY$/net/sf/opencsv/opencsv/2.0/opencsv-2.0.jar" />
-                            <option value="$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils-core/1.8.3/commons-beanutils-core-1.8.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-report-resources/1.9.19/a6bdfb2c780c0c2aa4644382cf3b993fdb02d3a4/serenity-report-resources-1.9.19.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-net/commons-net/3.6/commons-net-3.6.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/typesafe/config/1.3.1/config-1.3.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.10.3/jsoup-1.10.3.jar" />
                             <option value="$MAVEN_REPOSITORY$/joda-time/joda-time/2.7/joda-time-2.7.jar" />
-                            <option value="$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.9/xstream-1.4.9.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar" />
                             <option value="$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.23/freemarker-2.3.23.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-io/commons-io/2.6/commons-io-2.6.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils-core/1.8.3/commons-beanutils-core-1.8.3.jar" />
+                            <option value="$MAVEN_REPOSITORY$/net/sf/opencsv/opencsv/2.0/opencsv-2.0.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/imgscalr/imgscalr-lib/4.2/imgscalr-lib-4.2.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.9/xstream-1.4.9.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/2.4.12/groovy-2.4.12.jar" />
                             <option value="$MAVEN_REPOSITORY$/net/sourceforge/jexcelapi/jxl/2.6.12/jxl-2.6.12.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/awaitility/awaitility/3.1.0/awaitility-3.1.0.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/asciidoctor/asciidoctorj/1.5.5/asciidoctorj-1.5.5.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.23/freemarker-2.3.23.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/vladsch/flexmark/flexmark-all/0.26.4/flexmark-all-0.26.4.jar" />
+                            <option value="$MAVEN_REPOSITORY$/es/nitaur/markdown/txtmark/0.16/txtmark-0.16.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-reports/1.9.19/d3facee66610cbe3e73f94d6d09f0791b82e54ee/serenity-reports-1.9.19.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-server/3.11.0/908eec5509a1bae0f2017494832a3c29bcdc9b58/selenium-server-3.11.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-java/3.11.0/5b50d4072e0e51779b6e9f3594106312061bfde/selenium-java-3.11.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.11.0/79a8a85e1f7c79968748a89d44cd1332098aca7b/selenium-api-3.11.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/3.11.0/277f9f13a2ffcd7fa8268e2627610f4b69339664/selenium-chrome-driver-3.11.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-edge-driver/3.11.0/5fa855cf29defdfb6436addf731e4d79588cb1f6/selenium-edge-driver-3.11.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/3.11.0/3c8bdbd7c28a022ed0337958c82033405557d6f9/selenium-remote-driver-3.11.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-safari-driver/3.11.0/a6696382cbe6e88667abb925f5bce9f32aaad32a/selenium-safari-driver-3.11.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-opera-driver/3.11.0/ac826e8224242ea60edbaa7dd2ae3f62ddcf731b/selenium-opera-driver-3.11.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/3.11.0/2d0bdfbf26bfb3224c4c1b2fc52d43804ffaf25/selenium-support-3.11.0.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/paulhammant/ngwebdriver/1.1.3/ngwebdriver-1.1.3.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/codeborne/phantomjsdriver/1.4.4/phantomjsdriver-1.4.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.4.9.v20180320/8a602b93581f6af54839728f51d51ab830bdd44d/jetty-util-9.4.9.v20180320.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.4.9.v20180320/938d67c72405285d2a7a6efb10d870a1b16fa2e0/jetty-io-9.4.9.v20180320.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/htmlunit-driver/2.30.0/htmlunit-driver-2.30.0.jar" />
+                            <option value="$MAVEN_REPOSITORY$/io/appium/java-client/6.0.0-BETA5/java-client-6.0.0-BETA5.jar" />
                             <option value="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar" />
-                            <option value="$MAVEN_REPOSITORY$/net/sourceforge/htmlunit/htmlunit/2.27/htmlunit-2.27.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpmime/4.5.5/httpmime-4.5.5.jar" />
                             <option value="$MAVEN_REPOSITORY$/org/fluentlenium/fluentlenium-core/0.10.2/fluentlenium-core-0.10.2.jar" />
                             <option value="$MAVEN_REPOSITORY$/com/jhlabs/filters/2.0.235/filters-2.0.235.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/asciidoctor/asciidoctor-java-integration/0.1.4/asciidoctor-java-integration-0.1.4.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/imgscalr/imgscalr-lib/4.2/imgscalr-lib-4.2.jar" />
-                            <option value="$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.1.1.Final/hibernate-validator-5.1.1.Final.jar" />
                             <option value="$MAVEN_REPOSITORY$/javax/el/javax.el-api/2.2.4/javax.el-api-2.2.4.jar" />
                             <option value="$MAVEN_REPOSITORY$/org/glassfish/web/javax.el/2.2.4/javax.el-2.2.4.jar" />
                             <option value="$MAVEN_REPOSITORY$/xalan/xalan/2.7.2/xalan-2.7.2.jar" />
                             <option value="$MAVEN_REPOSITORY$/xalan/serializer/2.7.2/serializer-2.7.2.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/awaitility/awaitility/3.0.0/awaitility-3.0.0.jar" />
-                            <option value="$MAVEN_REPOSITORY$/com/typesafe/config/1.3.1/config-1.3.1.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.10.3/jsoup-1.10.3.jar" />
                             <option value="$MAVEN_REPOSITORY$/com/google/jimfs/jimfs/1.1/jimfs-1.1.jar" />
-                            <option value="$MAVEN_REPOSITORY$/es/nitaur/markdown/txtmark/0.16/txtmark-0.16.jar" />
-                            <option value="$MAVEN_REPOSITORY$/com/vladsch/flexmark/flexmark-all/0.26.4/flexmark-all-0.26.4.jar" />
                             <option value="$MAVEN_REPOSITORY$/org/apache/ant/ant-launcher/1.9.6/ant-launcher-1.9.6.jar" />
-                            <option value="$MAVEN_REPOSITORY$/com/opera/operalaunchers/1.1/operalaunchers-1.1.jar" />
-                            <option value="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/2.4.1/protobuf-java-2.4.1.jar" />
-                            <option value="$MAVEN_REPOSITORY$/commons-jxpath/commons-jxpath/1.3/commons-jxpath-1.3.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/ini4j/ini4j/0.5.2/ini4j-0.5.2.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.7.1/selenium-firefox-driver-3.7.1.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-ie-driver/3.7.1/selenium-ie-driver-3.7.1.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-opera-driver/3.7.1/selenium-opera-driver-3.7.1.jar" />
-                            <option value="$MAVEN_REPOSITORY$/com/beust/jcommander/1.48/jcommander-1.48.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/w3c/css/sac/1.3/sac-1.3.jar" />
-                            <option value="$MAVEN_REPOSITORY$/net/sourceforge/cssparser/cssparser/0.9.23/cssparser-0.9.23.jar" />
-                            <option value="$MAVEN_REPOSITORY$/net/sourceforge/htmlunit/htmlunit-core-js/2.27/htmlunit-core-js-2.27.jar" />
-                            <option value="$MAVEN_REPOSITORY$/net/sourceforge/htmlunit/neko-htmlunit/2.27/neko-htmlunit-2.27.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar" />
-                            <option value="$MAVEN_REPOSITORY$/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/jetty-repacked/9.4.5.v20170502/jetty-repacked-9.4.5.v20170502.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-client/9.4.5.v20170502/jetty-client-9.4.5.v20170502.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-http/9.4.5.v20170502/jetty-http-9.4.5.v20170502.jar" />
-                            <option value="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-api/9.4.5.v20170502/websocket-api-9.4.5.v20170502.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-client/9.4.5.v20170502/websocket-client-9.4.5.v20170502.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-common/9.4.5.v20170502/websocket-common-9.4.5.v20170502.jar" />
-                            <option value="$MAVEN_REPOSITORY$/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.15/snakeyaml-1.15.jar" />
-                            <option value="$MAVEN_REPOSITORY$/commons-validator/commons-validator/1.6/commons-validator-1.6.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.0.RELEASE/spring-context-5.0.0.RELEASE.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.8.11/aspectjweaver-1.8.11.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/openpnp/opencv/3.2.0-1/opencv-3.2.0-1.jar" />
                             <option value="$MAVEN_REPOSITORY$/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar" />
                             <option value="$MAVEN_REPOSITORY$/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/jruby/jruby-complete/1.7.4/jruby-complete-1.7.4.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.jar" />
-                            <option value="$MAVEN_REPOSITORY$/com/fasterxml/classmate/1.0.0/classmate-1.0.0.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/jruby/jruby-complete/1.7.26/jruby-complete-1.7.26.jar" />
                             <option value="$MAVEN_REPOSITORY$/com/vladsch/flexmark/flexmark/0.26.4/flexmark-0.26.4.jar" />
                             <option value="$MAVEN_REPOSITORY$/com/vladsch/flexmark/flexmark-ext-abbreviation/0.26.4/flexmark-ext-abbreviation-0.26.4.jar" />
                             <option value="$MAVEN_REPOSITORY$/com/vladsch/flexmark/flexmark-ext-anchorlink/0.26.4/flexmark-ext-anchorlink-0.26.4.jar" />
@@ -562,21 +441,60 @@
                             <option value="$MAVEN_REPOSITORY$/com/vladsch/flexmark/flexmark-profile-pegdown/0.26.4/flexmark-profile-pegdown-0.26.4.jar" />
                             <option value="$MAVEN_REPOSITORY$/com/vladsch/flexmark/flexmark-util/0.26.4/flexmark-util-0.26.4.jar" />
                             <option value="$MAVEN_REPOSITORY$/com/vladsch/flexmark/flexmark-youtrack-converter/0.26.4/flexmark-youtrack-converter-0.26.4.jar" />
-                            <option value="$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils/1.9.2/commons-beanutils-1.9.2.jar" />
-                            <option value="$MAVEN_REPOSITORY$/commons-digester/commons-digester/1.8.1/commons-digester-1.8.1.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.0.RELEASE/spring-aop-5.0.0.RELEASE.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.0.RELEASE/spring-beans-5.0.0.RELEASE.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.0.RELEASE/spring-core-5.0.0.RELEASE.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-expression/5.0.0.RELEASE/spring-expression-5.0.0.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/3.11.0/72b783e0290721bc6c6ab71680257ace62fc35eb/selenium-firefox-driver-3.11.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-ie-driver/3.11.0/54055993f547a1aaa718dc18368ede146d379eb9/selenium-ie-driver-3.11.0.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/beust/jcommander/1.72/jcommander-1.72.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/apache/commons/commons-text/1.3/commons-text-1.3.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/w3c/css/sac/1.3/sac-1.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.cssparser/cssparser/0.9.24/539eeb759666289fe5506222dbef25de956f6fa0/cssparser-0.9.24.jar" />
+                            <option value="$MAVEN_REPOSITORY$/net/sourceforge/htmlunit/htmlunit-core-js/2.28/htmlunit-core-js-2.28.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9.jar" />
+                            <option value="$MAVEN_REPOSITORY$/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/jetty-repacked/9.4.7.v20171121/jetty-repacked-9.4.7.v20171121.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-client/9.4.9.v20180320/c6ed57d55c5d55927c6e11fc47972a4eeacba6f4/jetty-client-9.4.9.v20180320.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.4.9.v20180320/64d93698196ea7a66b33c754a0eac2a97d5af4b6/jetty-http-9.4.9.v20180320.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/9.4.9.v20180320/247894128d4d3ba41774be941fb801e20e668be7/jetty-xml-9.4.9.v20180320.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.9.1/84b4b7d1c4a238e7899972b7446c250691e65f1f/okhttp-3.9.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar" />
+                            <option value="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-api/9.4.9.v20180320/8be09aafe135e370bbc33a8ec01b443ac9aa9a47/websocket-api-9.4.9.v20180320.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-client/9.4.9.v20180320/websocket-client-9.4.9.v20180320.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-common/9.4.9.v20180320/ca1f96a14ae58d951d1d93c1c5a3416b4b501578/websocket-common-9.4.9.v20180320.jar" />
+                            <option value="$MAVEN_REPOSITORY$/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.19/snakeyaml-1.19.jar" />
+                            <option value="$MAVEN_REPOSITORY$/net/sourceforge/htmlunit/htmlunit/2.30/htmlunit-2.30.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-validator/commons-validator/1.6/commons-validator-1.6.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.3.RELEASE/spring-context-5.0.3.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.8.13/aspectjweaver-1.8.13.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/openpnp/opencv/3.2.0-1/opencv-3.2.0-1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/javax/websocket/javax.websocket-api/1.1/javax.websocket-api-1.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/glassfish/tyrus/tyrus-client/1.1/tyrus-client-1.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/glassfish/tyrus/tyrus-container-grizzly/1.1/tyrus-container-grizzly-1.1.jar" />
                             <option value="$MAVEN_REPOSITORY$/com/openhtmltopdf/openhtmltopdf-core/0.0.1-RC9/openhtmltopdf-core-0.0.1-RC9.jar" />
                             <option value="$MAVEN_REPOSITORY$/com/openhtmltopdf/openhtmltopdf-pdfbox/0.0.1-RC9/openhtmltopdf-pdfbox-0.0.1-RC9.jar" />
                             <option value="$MAVEN_REPOSITORY$/com/openhtmltopdf/openhtmltopdf-rtl-support/0.0.1-RC9/openhtmltopdf-rtl-support-0.0.1-RC9.jar" />
                             <option value="$MAVEN_REPOSITORY$/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC9/openhtmltopdf-jsoup-dom-converter-0.0.1-RC9.jar" />
+                            <option value="$MAVEN_REPOSITORY$/net/sourceforge/htmlunit/neko-htmlunit/2.30/neko-htmlunit-2.30.jar" />
+                            <option value="$MAVEN_REPOSITORY$/net/sourceforge/htmlunit/htmlunit-cssparser/1.0.0/htmlunit-cssparser-1.0.0.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils/1.9.2/commons-beanutils-1.9.2.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-digester/commons-digester/1.8.1/commons-digester-1.8.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.3.RELEASE/spring-aop-5.0.3.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.3.RELEASE/spring-beans-5.0.3.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.3.RELEASE/spring-core-5.0.3.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-expression/5.0.3.RELEASE/spring-expression-5.0.3.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/glassfish/tyrus/tyrus-core/1.1/tyrus-core-1.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-framework/2.3.3/grizzly-framework-2.3.3.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-http-server/2.3.3/grizzly-http-server-2.3.3.jar" />
                             <option value="$MAVEN_REPOSITORY$/org/nibor/autolink/autolink/0.6.0/autolink-0.6.0.jar" />
                             <option value="$MAVEN_REPOSITORY$/org/apache/pdfbox/pdfbox/2.0.4/pdfbox-2.0.4.jar" />
                             <option value="$MAVEN_REPOSITORY$/com/ibm/icu/icu4j/58.1/icu4j-58.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/glassfish/tyrus/tyrus-spi/1.1/tyrus-spi-1.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/glassfish/tyrus/tyrus-websocket-core/1.1/tyrus-websocket-core-1.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-http/2.3.3/grizzly-http-2.3.3.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-rcm/2.3.3/grizzly-rcm-2.3.3.jar" />
                             <option value="$MAVEN_REPOSITORY$/org/apache/pdfbox/fontbox/2.0.4/fontbox-2.0.4.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.0.0.RELEASE/spring-jcl-5.0.0.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.0.3.RELEASE/spring-jcl-5.0.3.RELEASE.jar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$" />
@@ -585,83 +503,86 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="SubmissionsSerenityTests" />
+              <option name="name" value="submissions-testing" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/ant-1.9.9.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/ant-launcher-1.9.9.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-base-services-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-base-services-groovy-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-build-cache-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-build-option-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-cli-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-core-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-core-api-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-docs-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-installation-beacon-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-jvm-services-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-kotlin-dsl-0.13.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-kotlin-dsl-tooling-builders-0.13.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-kotlin-dsl-tooling-models-0.13.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-launcher-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-logging-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-messaging-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-model-core-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-model-groovy-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-native-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-persistent-cache-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-process-services-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-resources-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-runtime-api-info-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-tooling-api-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-wrapper-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/groovy-all-2.4.12.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-announce-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-antlr-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-build-cache-http-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-build-comparison-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-build-init-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-code-quality-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-composite-builds-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-dependency-management-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-diagnostics-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ear-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ide-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ide-native-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ide-play-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ivy-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-jacoco-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-javascript-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-groovy-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-java-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-jvm-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-native-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-scala-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-maven-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-osgi-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-platform-base-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-platform-jvm-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-platform-native-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-platform-play-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-plugin-development-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-plugin-use-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-plugins-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-publish-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-reporting-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-resources-gcs-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-resources-http-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-resources-s3-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-resources-sftp-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-scala-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-signing-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-test-kit-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-testing-base-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-testing-jvm-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-testing-native-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-tooling-api-builders-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-version-control-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-workers-4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/ant-1.9.11.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/ant-launcher-1.9.11.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-base-services-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-base-services-groovy-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-build-cache-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-build-option-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-cli-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-core-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-core-api-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-docs-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-installation-beacon-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-jvm-services-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-launcher-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-logging-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-messaging-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-model-core-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-model-groovy-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-native-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-persistent-cache-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-process-services-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-resources-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-runtime-api-info-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-tooling-api-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/gradle-wrapper-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/groovy-all-2.4.12.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-announce-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-antlr-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-build-cache-http-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-build-comparison-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-build-init-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-code-quality-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-composite-builds-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-dependency-management-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-diagnostics-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-ear-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-ide-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-ide-native-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-ide-play-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-ivy-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-jacoco-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-javascript-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-language-groovy-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-language-java-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-language-jvm-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-language-native-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-language-scala-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-maven-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-osgi-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-platform-base-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-platform-jvm-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-platform-native-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-platform-play-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-plugin-development-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-plugin-use-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-plugins-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-publish-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-reporting-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-resources-gcs-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-resources-http-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-resources-s3-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-resources-sftp-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-scala-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-signing-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-test-kit-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-testing-base-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-testing-junit-platform-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-testing-jvm-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-testing-native-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-tooling-api-builders-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-version-control-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/gradle-workers-4.8.1.jar" />
+                  <option value="C:/Gradle/gradle-4.8.1/lib/plugins/ivy-2.2.0.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -674,7 +595,7 @@
     <option name="projectSyncType">
       <map>
         <entry key="$PROJECT_DIR$/../SubmissionSelenium" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../SubmissionsSerenityTests" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../VertaforeReport" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../bootcamp1-service" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../document-management-service" value="PREVIEW" />
@@ -683,16 +604,20 @@
         <entry key="$PROJECT_DIR$/../serenity-testing" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../submission-poc-service" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../submission-poc-service-test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
       </map>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/serenity.properties" />
-        <option value="$PROJECT_DIR$/src/test/java/com/submissions/serenity/features/search/SearchByKeywordStory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/submissions/restassured/tests/Submission.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/submissions/helloworld/restassured/ExampleRestAssured.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/submissions/restassured/tests/SubmissionRestAssuredTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/submissions/restassured/tests/GETFindByIdsSubmissionPOC.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/submissions/restassured/tests/POSTCreateSubmissionPOC.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -702,102 +627,117 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1333" />
     <option name="y" value="-1448" />
     <option name="width" value="2576" />
-    <option name="height" value="1375" />
+    <option name="height" value="1416" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="SubmissionsSerenityTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SubmissionsSerenityTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="submissions-testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="submissions-testing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="SubmissionsSerenityTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SubmissionsSerenityTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SubmissionsSerenityTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SubmissionsSerenityTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="submissions-testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="submissions-testing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SubmissionsSerenityTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SubmissionsSerenityTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="submissions-testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="submissions-testing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="SubmissionsSerenityTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SubmissionsSerenityTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="submissions-testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="submissions-testing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SubmissionsSerenityTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SubmissionsSerenityTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="submissions-testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="submissions-testing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="serenity" type="462c0819:PsiDirectoryNode" />
+              <item name="submissions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SubmissionsSerenityTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SubmissionsSerenityTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="submissions-testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="submissions-testing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="serenity" type="462c0819:PsiDirectoryNode" />
-              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="submissions" type="462c0819:PsiDirectoryNode" />
+              <item name="restassured" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SubmissionsSerenityTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SubmissionsSerenityTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="submissions-testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="submissions-testing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="serenity" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="submissions" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SubmissionsSerenityTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SubmissionsSerenityTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="submissions-testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="submissions-testing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="submissions" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SubmissionsSerenityTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SubmissionsSerenityTests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="submissions-testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="submissions-testing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="submissions" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
               <item name="search" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.submissions.restassured.tests" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.submissions.restassured.tests" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -811,60 +751,119 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SearchByKeywordStory">
+  <component name="RunManager" selected="JUnit.POSTCreateSubmissionPOC.successfulRequestWithCorrectBodyReturnsCreated">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="SubmissionsSerenityTests [aggregate]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="aggregate" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-    </configuration>
-    <configuration name="build (1)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="SubmissionsSerenityTests" />
-      <setting name="path" value="file://$PROJECT_DIR$/build.gradle" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
-    </configuration>
-    <configuration name="build" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="SubmissionsSerenityTests" />
-      <setting name="path" value="file://$PROJECT_DIR$/build.gradle" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
-    </configuration>
-    <configuration name="SearchByKeywordStory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SubmissionsSerenityTests_test" />
+    <configuration name="GETFindByIdsSubmissionPOC" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="submissions-testing_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.submissions.serenity.features.search.*" />
+          <option name="PATTERN" value="com.submissions.restassured.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.submissions.serenity.features.search" />
-      <option name="MAIN_CLASS_NAME" value="com.submissions.serenity.features.search.SearchByKeywordStory" />
+      <option name="PACKAGE_NAME" value="com.submissions.restassured.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.submissions.restassured.tests.GETFindByIdsSubmissionPOC" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="GETFindByIdsSubmissionPOC.GETFindByIdsSubmissionPOCReturnsCorrectStatusCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="submissions-testing_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.submissions.restassured.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.submissions.restassured.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.submissions.restassured.tests.GETFindByIdsSubmissionPOC" />
+      <option name="METHOD_NAME" value="GETFindByIdsSubmissionPOCReturnsCorrectStatusCode" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="GETFindByIdsSubmissionPOC.GETFindByIdsSubmissionPOCReturnsExpectedResponseBody" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="submissions-testing_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.submissions.restassured.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.submissions.restassured.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.submissions.restassured.tests.GETFindByIdsSubmissionPOC" />
+      <option name="METHOD_NAME" value="GETFindByIdsSubmissionPOCReturnsExpectedResponseBody" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="GETFindByIdsSubmissionPOC.GETFindByIdsSubmissionPOCReturnsResponsePagingWithExpectedBody" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="submissions-testing_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.submissions.restassured.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.submissions.restassured.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.submissions.restassured.tests.GETFindByIdsSubmissionPOC" />
+      <option name="METHOD_NAME" value="GETFindByIdsSubmissionPOCReturnsResponsePagingWithExpectedBody" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="POSTCreateSubmissionPOC.successfulRequestWithCorrectBodyReturnsCreated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="submissions-testing_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.submissions.restassured.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.submissions.restassured.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.submissions.restassured.tests.POSTCreateSubmissionPOC" />
+      <option name="METHOD_NAME" value="successfulRequestWithCorrectBodyReturnsCreated" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -912,31 +911,20 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
     <list>
-      <item itemvalue="JUnit.SearchByKeywordStory" />
-      <item itemvalue="Groovy.build" />
-      <item itemvalue="Groovy.build (1)" />
-      <item itemvalue="Gradle.SubmissionsSerenityTests [aggregate]" />
+      <item itemvalue="JUnit.GETFindByIdsSubmissionPOC" />
+      <item itemvalue="JUnit.GETFindByIdsSubmissionPOC.GETFindByIdsSubmissionPOCReturnsCorrectStatusCode" />
+      <item itemvalue="JUnit.GETFindByIdsSubmissionPOC.GETFindByIdsSubmissionPOCReturnsExpectedResponseBody" />
+      <item itemvalue="JUnit.GETFindByIdsSubmissionPOC.GETFindByIdsSubmissionPOCReturnsResponsePagingWithExpectedBody" />
+      <item itemvalue="JUnit.POSTCreateSubmissionPOC.successfulRequestWithCorrectBodyReturnsCreated" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SearchByKeywordStory" />
-        <item itemvalue="Gradle.SubmissionsSerenityTests [aggregate]" />
-        <item itemvalue="Groovy.build (1)" />
-        <item itemvalue="Groovy.build" />
+        <item itemvalue="JUnit.POSTCreateSubmissionPOC.successfulRequestWithCorrectBodyReturnsCreated" />
+        <item itemvalue="JUnit.GETFindByIdsSubmissionPOC.GETFindByIdsSubmissionPOCReturnsCorrectStatusCode" />
+        <item itemvalue="JUnit.GETFindByIdsSubmissionPOC.GETFindByIdsSubmissionPOCReturnsResponsePagingWithExpectedBody" />
+        <item itemvalue="JUnit.GETFindByIdsSubmissionPOC.GETFindByIdsSubmissionPOCReturnsExpectedResponseBody" />
+        <item itemvalue="JUnit.GETFindByIdsSubmissionPOC" />
       </list>
     </recent_temporary>
   </component>
@@ -945,68 +933,78 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d3a9cd06-24ba-4d28-a79d-563f952f3d42" name="Default" comment="" />
-      <created>1531235838443</created>
+      <changelist id="0f94bbc1-e850-4d08-a019-c48b16705e26" name="Default" comment="" />
+      <created>1531406895178</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1531235838443</updated>
-      <workItem from="1531235841789" duration="7266000" />
+      <updated>1531406895178</updated>
+      <workItem from="1531406900674" duration="21369000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SearchByKeywordStory - 2018.07.10 at 09h 18m 49s.xml">
-      <configuration name="SearchByKeywordStory" configurationId="JUnit" />
+    <history-entry file="GETFindByIdsSubmissionPOC_GETFindByIdsSubmissionPOCReturnsCorrectStatusCode - 2018.07.12 at 15h 59m 36s.xml">
+      <configuration name="GETFindByIdsSubmissionPOC.GETFindByIdsSubmissionPOCReturnsCorrectStatusCode" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchByKeywordStory - 2018.07.10 at 09h 19m 32s.xml">
-      <configuration name="SearchByKeywordStory" configurationId="JUnit" />
+    <history-entry file="POSTCreateSubmissionPOC_successfulRequestWithCorrectBodyReturnsCreated - 2018.07.12 at 16h 10m 44s.xml">
+      <configuration name="POSTCreateSubmissionPOC.successfulRequestWithCorrectBodyReturnsCreated" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchByKeywordStory - 2018.07.10 at 09h 32m 45s.xml">
-      <configuration name="SearchByKeywordStory" configurationId="JUnit" />
+    <history-entry file="POSTCreateSubmissionPOC_successfulRequestWithCorrectBodyReturnsCreated - 2018.07.12 at 16h 21m 56s.xml">
+      <configuration name="POSTCreateSubmissionPOC.successfulRequestWithCorrectBodyReturnsCreated" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchByKeywordStory - 2018.07.10 at 09h 46m 25s.xml">
-      <configuration name="SearchByKeywordStory" configurationId="JUnit" />
+    <history-entry file="POSTCreateSubmissionPOC_successfulRequestWithCorrectBodyReturnsCreated - 2018.07.12 at 16h 24m 10s.xml">
+      <configuration name="POSTCreateSubmissionPOC.successfulRequestWithCorrectBodyReturnsCreated" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchByKeywordStory - 2018.07.10 at 09h 56m 29s.xml">
-      <configuration name="SearchByKeywordStory" configurationId="JUnit" />
+    <history-entry file="POSTCreateSubmissionPOC_successfulRequestWithCorrectBodyReturnsCreated - 2018.07.12 at 16h 31m 19s.xml">
+      <configuration name="POSTCreateSubmissionPOC.successfulRequestWithCorrectBodyReturnsCreated" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchByKeywordStory - 2018.07.10 at 10h 35m 22s.xml">
-      <configuration name="SearchByKeywordStory" configurationId="JUnit" />
+    <history-entry file="POSTCreateSubmissionPOC_successfulRequestWithCorrectBodyReturnsCreated - 2018.07.12 at 16h 35m 18s.xml">
+      <configuration name="POSTCreateSubmissionPOC.successfulRequestWithCorrectBodyReturnsCreated" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchByKeywordStory - 2018.07.10 at 10h 56m 56s.xml">
-      <configuration name="SearchByKeywordStory" configurationId="JUnit" />
+    <history-entry file="POSTCreateSubmissionPOC_successfulRequestWithCorrectBodyReturnsCreated - 2018.07.12 at 16h 37m 36s.xml">
+      <configuration name="POSTCreateSubmissionPOC.successfulRequestWithCorrectBodyReturnsCreated" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="POSTCreateSubmissionPOC_successfulRequestWithCorrectBodyReturnsCreated - 2018.07.12 at 16h 39m 02s.xml">
+      <configuration name="POSTCreateSubmissionPOC.successfulRequestWithCorrectBodyReturnsCreated" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="POSTCreateSubmissionPOC_successfulRequestWithCorrectBodyReturnsCreated - 2018.07.12 at 16h 39m 55s.xml">
+      <configuration name="POSTCreateSubmissionPOC.successfulRequestWithCorrectBodyReturnsCreated" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="POSTCreateSubmissionPOC_successfulRequestWithCorrectBodyReturnsCreated - 2018.07.12 at 16h 40m 47s.xml">
+      <configuration name="POSTCreateSubmissionPOC.successfulRequestWithCorrectBodyReturnsCreated" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7266000" />
+    <option name="totallyTimeSpent" value="21369000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1333" y="-1448" width="2576" height="1375" extended-state="6" />
+    <frame x="-1333" y="-1448" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50039744" side_tool="true" weight="0.32942098" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info anchor="bottom" id="Build" weight="0.32983023" />
+      <window_info anchor="bottom" id="Build" weight="0.32942098" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32942098" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32983023" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960256" visible="true" weight="0.32942098" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32983023" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Bean Validation" />
-      <window_info anchor="right" id="Gradle" weight="0.56842107" />
+      <window_info anchor="right" id="Gradle" weight="0.3298887" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -1024,73 +1022,31 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-junit/1.8.3/fecba7140dffb5040c8077d2de3256bafc701230/serenity-junit-1.8.3-sources.jar!/net/serenitybdd/junit/runners/SerenityRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="167" selection-start-line="167" selection-end-line="167" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="60" column="23" selection-start-line="58" selection-start-column="8" selection-end-line="62" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradlew">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2756" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/submissions/serenity/features/search/package-info.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/gradle.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/test/classes/com/submissions/serenity/features/search/package-info.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/test/classes/com/submissions/serenity/features/search/SearchByKeywordStory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-186">
-          <folding>
-            <element signature="e#0#1570#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/submissions/serenity/pages/DictionaryPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/serenity.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        <state>
+          <caret selection-end-line="2" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/submissions/serenity/features/search/SearchByKeywordStory.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/submissions/tests/features/search/SearchByKeywordStory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="100">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/submissions/restassured/tests/Submission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/submissions/helloworld/restassured/ExampleRestAssured.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1099,11 +1055,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" column="64" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
+        <state relative-caret-position="149">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/submissions/restassured/tests/GETFindByIdsSubmissionPOC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/submissions/restassured/tests/POSTCreateSubmissionPOC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="52" column="29" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="52" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
   </component>
   <component name="masterDetails">
     <states>
